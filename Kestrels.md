@@ -15,10 +15,10 @@ This idea was made possible through the creation of [Movebank.org](https://www.m
 ### Key Variables
 Along with the dataset, Movebank provides a really good set of definitions for each variable they collect against. There's a few variables that stood out to me, that maybe I'll get to use or look into in some way. 
 
- - **gls:light-level**
+ - **gls:light-level**: According to the definition provided, this refers to "Light-level values measured by a solar geolocator. Range and units may vary by provider and tag settings. Best practice is to define values in the reference data." I don't see any additional information about this variable, but I wonder if I could use this as a proxy for when they're in their nest? They're active between dawn and dusk, so I could  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzU4MTIxMTgsNTc0MzYxOTYwLDIwMT
+eyJoaXN0b3J5IjpbLTEzNDU3MzMxMjgsNTc0MzYxOTYwLDIwMT
 M0MTU0MzUsMTA2ODQ2OTA5NiwtNjQwMzc4NDg1LC0xOTgyNTMy
 MTQzLDQ5NzgxODgxMF19
 -->
