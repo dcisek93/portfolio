@@ -8,5 +8,6 @@ nav-menu: false
 
 Whenever I go somewhere, I'm quick to try to learn the local plants and animals that call that place *home*. It's a large portion of what makes me feel like I belong somewhere, and the UK was no exception. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODI1MzIxNDMsNDk3ODE4ODEwXX0=
+eyJoaXN0b3J5IjpbMTY0MTM4Njc5NywtMTk4MjUzMjE0Myw0OT
+c4MTg4MTBdfQ==
 -->
