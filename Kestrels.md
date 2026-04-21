@@ -2,7 +2,7 @@
 layout: post
 title: Hyperlocal Weather Collection & Analysis 
 description: Time Series Analysis, Hardware/Software Integration, Internet of Things 
-image: assets/images/picarduino.jpg
+image: assets/images/Kestrel.jpg
 nav-menu: false
 ---
 
@@ -12,6 +12,6 @@ I want to use this page as a sort of journal, documenting how I’ve explored ke
 
 This idea was made possible through the creation of [Movebank.org](https://www.movebank.org/),  a fantastic reposity of animal tracking data from around the world. I found a dataset that [tracked several Kestrels through southern Spain](https://www.movebank.org/cms/webapp?gwt_fragment=page=studies,path=study2970193504). It covered a population of 61 individuals, providing over roughly 2,500,000 data points about their movements over a period of six years. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MDM3ODQ4NSwtMTk4MjUzMjE0Myw0OT
-c4MTg4MTBdfQ==
+eyJoaXN0b3J5IjpbMTIyMTQ3NjUyOSwtNjQwMzc4NDg1LC0xOT
+gyNTMyMTQzLDQ5NzgxODgxMF19
 -->
