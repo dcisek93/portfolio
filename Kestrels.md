@@ -6,7 +6,7 @@ description: Time Series Analysis, Hardware/Software Integration, Internet of Th
 image: assets/images/picarduino.jpg
 nav-menu: false
 ---
-Whenever I go somewhere, I'm quick to try to learn the local plants and animals that call that place *home*. It
+Whenever I go somewhere, I'm quick to try to learn the local plants and animals that call that place *home*. It's a large portion of what makes me feel like I belong somewhere, and the UK was no exception. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNzk4MTUxNyw0OTc4MTg4MTBdfQ==
+eyJoaXN0b3J5IjpbLTE5ODI1MzIxNDMsNDk3ODE4ODEwXX0=
 -->
