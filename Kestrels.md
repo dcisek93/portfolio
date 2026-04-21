@@ -15,10 +15,11 @@ This idea was made possible through the creation of [Movebank.org](https://www.m
 ### Key Variables
 Along with the dataset, Movebank provides a really good set of definitions for each variable they collect against. There's a few variables that stood out to me, that maybe I'll get to use or look into in some way. 
 
- - **gls:light-level**: According to the definition provided, this refers to "Light-level values measured by a solar geolocator. Range and units may vary by provider and tag settings. Best practice is to define values in the reference data." I don't see any additional information about this variable, but I wonder if I could use this as a proxy for when they're in their nest? They're active between dawn and dusk, so I could  
+ - **gls:light-level**: According to the definition provided, this refers to "Light-level values measured by a solar geolocator. Range and units may vary by provider and tag settings. Best practice is to define values in the reference data." I don't see any additional information about this variable, but I wonder if I could use this as a proxy for when they're in their nest? They are active between dawn and dusk, so I could imagine this having value in filtering out un-needed records. 
+ - **animal-sex**: The additional reference data provided by the authors als  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDU3MzMxMjgsNTc0MzYxOTYwLDIwMT
-M0MTU0MzUsMTA2ODQ2OTA5NiwtNjQwMzc4NDg1LC0xOTgyNTMy
-MTQzLDQ5NzgxODgxMF19
+eyJoaXN0b3J5IjpbMTI2NjgyNDA3Miw1NzQzNjE5NjAsMjAxMz
+QxNTQzNSwxMDY4NDY5MDk2LC02NDAzNzg0ODUsLTE5ODI1MzIx
+NDMsNDk3ODE4ODEwXX0=
 -->
