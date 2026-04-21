@@ -13,9 +13,9 @@ I want to use this page as a sort of journal, documenting how I’ve explored ke
 This idea was made possible through the creation of [Movebank.org](https://www.movebank.org/),  a fantastic reposity of animal tracking data from around the world. I found a dataset that [tracked several Kestrels through southern Spain](https://www.movebank.org/cms/webapp?gwt_fragment=page=studies,path=study2970193504). It covered a population of 61 individuals, providing over roughly 2,500,000 data points about their movements over a period of six years. 
 
 ### Key Variables
-Alongwi
+Along with the dataset 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY1NTQwNzc1LDIwMTM0MTU0MzUsMTA2OD
+eyJoaXN0b3J5IjpbNTc0MzYxOTYwLDIwMTM0MTU0MzUsMTA2OD
 Q2OTA5NiwtNjQwMzc4NDg1LC0xOTgyNTMyMTQzLDQ5NzgxODgx
 MF19
 -->
