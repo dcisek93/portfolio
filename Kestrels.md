@@ -10,8 +10,8 @@ Whenever I go somewhere, I'm quick to try to learn the local plants and animals 
 
 I want to use this page as a sort of journal, documenting how I’ve explored kestrels and their behavior through the lens I know best: data science and mapping. I don't expect any of it to amuse anyone besides myself, but for me it serves the dual purpose of both investigating something I'm interested in, and hopefully re-invigorating my interest in data science.
 
-This idea was made possible through the creation of [Movebank.org](https://www.movebank.org/),  a fantastic reposity of animal tracking data from around the world. I found a dataset that [tracked several Kestrels through southern Spain](https://www.movebank.org/cms/webapp?gwt_fragment=page=studies,path=study2970193504). It covered a population of 61 individuals, providing over roughly 2,500,000 data points about their movements over a period of
+This idea was made possible through the creation of [Movebank.org](https://www.movebank.org/),  a fantastic reposity of animal tracking data from around the world. I found a dataset that [tracked several Kestrels through southern Spain](https://www.movebank.org/cms/webapp?gwt_fragment=page=studies,path=study2970193504). It covered a population of 61 individuals, providing over roughly 2,500,000 data points about their movements over a period of six years. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTk5Nzk2NTksLTE5ODI1MzIxNDMsND
-k3ODE4ODEwXX0=
+eyJoaXN0b3J5IjpbLTY0MDM3ODQ4NSwtMTk4MjUzMjE0Myw0OT
+c4MTg4MTBdfQ==
 -->
