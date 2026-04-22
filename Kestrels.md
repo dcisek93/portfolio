@@ -19,10 +19,10 @@ Along with the dataset, Movebank provides a really good set of definitions for e
  - **animal-sex**: The additional reference data provided by the authors also provides sex information for each tracked individual, which I think could be interesting if I tried to apply a machine learning model to this data. That would be a long ways out, but maybe there's enough in their activity to indicate the gender of a given bird.   
 
 ### Identifying Active Periods
-My first goal was to look into how I could tell when the birds were in their nest, or were active.
+My first goal was to look into how I could tell when the birds were in their nest, or were active. I learned that Kestrels are diurnal (daytime) hunters and rely almost entirely on sight to . 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDUyMzg0NTEsMTMxNzIyOTM4MCw1Nz
-QzNjE5NjAsMjAxMzQxNTQzNSwxMDY4NDY5MDk2LC02NDAzNzg0
-ODUsLTE5ODI1MzIxNDMsNDk3ODE4ODEwXX0=
+eyJoaXN0b3J5IjpbOTU2MjUzNjMsLTIxNDUyMzg0NTEsMTMxNz
+IyOTM4MCw1NzQzNjE5NjAsMjAxMzQxNTQzNSwxMDY4NDY5MDk2
+LC02NDAzNzg0ODUsLTE5ODI1MzIxNDMsNDk3ODE4ODEwXX0=
 -->
