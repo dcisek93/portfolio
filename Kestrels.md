@@ -24,11 +24,11 @@ My first goal was to look into how I could tell when the birds were in their nes
 
     plt.scatter(kestrel['timestamp'].dt.hour, kestrel['gls:light-level'])
 
-From this plot, we can get a quick idea of what our cut-offs 
+From this plot, we can get a quick idea of what our cut-offs might be.
     
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MTE5MjQ4MCwyMDA3NDk4NzcwLC02Mj
+eyJoaXN0b3J5IjpbLTk1MTg0ODY2MiwyMDA3NDk4NzcwLC02Mj
 Y0NzIwODYsMTA5NzkwMzgyNiwtMjE0NTIzODQ1MSwxMzE3MjI5
 MzgwLDU3NDM2MTk2MCwyMDEzNDE1NDM1LDEwNjg0NjkwOTYsLT
 Y0MDM3ODQ4NSwtMTk4MjUzMjE0Myw0OTc4MTg4MTBdfQ==
