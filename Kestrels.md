@@ -23,11 +23,13 @@ Along with the dataset, Movebank provides a really good set of definitions for e
 My first goal was to look into how I could tell when the birds were in their nest, or were active. I learned that Kestrels are diurnal (daytime) hunters and rely almost entirely on sight to locate their prey. With that in mind, maybe we could use the gls:light-level variable as a proxy for when they're in their nest, and find a certain threshold that could help us separate out our data into 'active' and 'passive' subsets. We can plot this data as a first test of this idea:
 
     plt.scatter(kestrel['timestamp'].dt.hour, kestrel['gls:light-level'])
+
+From this plot, we can get a quick idea of what our cut-offs 
     
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNzQ5ODc3MCwtNjI2NDcyMDg2LDEwOT
-c5MDM4MjYsLTIxNDUyMzg0NTEsMTMxNzIyOTM4MCw1NzQzNjE5
-NjAsMjAxMzQxNTQzNSwxMDY4NDY5MDk2LC02NDAzNzg0ODUsLT
-E5ODI1MzIxNDMsNDk3ODE4ODEwXX0=
+eyJoaXN0b3J5IjpbLTY1MTE5MjQ4MCwyMDA3NDk4NzcwLC02Mj
+Y0NzIwODYsMTA5NzkwMzgyNiwtMjE0NTIzODQ1MSwxMzE3MjI5
+MzgwLDU3NDM2MTk2MCwyMDEzNDE1NDM1LDEwNjg0NjkwOTYsLT
+Y0MDM3ODQ4NSwtMTk4MjUzMjE0Myw0OTc4MTg4MTBdfQ==
 -->
