@@ -20,11 +20,11 @@ Along with the dataset, Movebank provides a really good set of definitions for e
  - **animal-sex**: The additional reference data provided by the authors also provides sex information for each tracked individual, which I think could be interesting if I tried to apply a machine learning model to this data. That would be a long ways out, but maybe there's enough in their activity to indicate the gender of a given bird. Doing that from just geospatial data would be interesting.  
 
 ### Identifying Active Periods
-My first goal was to look into how I could tell when the birds were in their nest, or were active. I learned that Kestrels are diurnal (daytime) hunters and rely almost entirely on sight to locate their prey. With that in mind, maybe we could use the gls:light-level variable as a proxy for when they're in their nest, and find a certain threshold that could help us separate out 
+My first goal was to look into how I could tell when the birds were in their nest, or were active. I learned that Kestrels are diurnal (daytime) hunters and rely almost entirely on sight to locate their prey. With that in mind, maybe we could use the gls:light-level variable as a proxy for when they're in their nest, and find a certain threshold that could help us separate out our data into 'active' and 'passive' subsets. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEwNTE0NjkxLDEwOTc5MDM4MjYsLTIxND
-UyMzg0NTEsMTMxNzIyOTM4MCw1NzQzNjE5NjAsMjAxMzQxNTQz
-NSwxMDY4NDY5MDk2LC02NDAzNzg0ODUsLTE5ODI1MzIxNDMsND
-k3ODE4ODEwXX0=
+eyJoaXN0b3J5IjpbLTYyNjQ3MjA4NiwxMDk3OTAzODI2LC0yMT
+Q1MjM4NDUxLDEzMTcyMjkzODAsNTc0MzYxOTYwLDIwMTM0MTU0
+MzUsMTA2ODQ2OTA5NiwtNjQwMzc4NDg1LC0xOTgyNTMyMTQzLD
+Q5NzgxODgxMF19
 -->
