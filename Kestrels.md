@@ -18,8 +18,11 @@ Along with the dataset, Movebank provides a really good set of definitions for e
  - **gls:light-level**: According to the definition provided, this refers to "Light-level values measured by a solar geolocator. Range and units may vary by provider and tag settings. Best practice is to define values in the reference data." I don't see any additional information about this variable, but I wonder if I could use this as a proxy for when they're in their nest? They are active between dawn and dusk, so I could imagine this having value in filtering out un-needed records. 
  - **animal-sex**: The additional reference data provided by the authors also provides sex information for each tracked individual, which I think could be interesting if I tried to apply a machine learning model to this data. That would be a long ways out, but maybe there's enough in their activity to indicate the gender of a given bird.   
 
+### Identifying Active Periods
+My first goal was to look into how I could tell when the birds were in their nest, or were active.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNzIyOTM4MCw1NzQzNjE5NjAsMjAxMz
-QxNTQzNSwxMDY4NDY5MDk2LC02NDAzNzg0ODUsLTE5ODI1MzIx
-NDMsNDk3ODE4ODEwXX0=
+eyJoaXN0b3J5IjpbLTIxNDUyMzg0NTEsMTMxNzIyOTM4MCw1Nz
+QzNjE5NjAsMjAxMzQxNTQzNSwxMDY4NDY5MDk2LC02NDAzNzg0
+ODUsLTE5ODI1MzIxNDMsNDk3ODE4ODEwXX0=
 -->
