@@ -25,11 +25,19 @@ My first goal was to look into how I could tell when the birds were in their nes
     plt.scatter(kestrel['timestamp'].dt.hour, kestrel['gls:light-level'])
 
 From this plot, we can get a quick idea of what our cut-offs might be.
+Links if I continue this:
+https://www.timeanddate.com/weather/@2519128/historic?month=1&year=2025
+https://www.movebank.org/cms/movebank-content/movebank-attribute-dictionary#event_attributes
+https://open-meteo.com/en/docs/historical-forecast-api?start_date=2024-11-28&end_date=2025-06-29&hourly=wind_speed_180m,wind_direction_180m,wind_speed_10m,wind_direction_10m&latitude=37.0427&longitude=6.4344&timezone=auto&daily=rain_sum,temperature_2m_max,temperature_2m_min#hourly_weather_variables
+https://www.aemet.es/en/eltiempo/observacion/ultimosdatos?k=and&w=0
+https://www.movebank.org/cms/webapp?gwt_fragment=page%3Dstudies%2Cpath%3Dstudy2970193504%2Bfile
+
     
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MTg0ODY2MiwyMDA3NDk4NzcwLC02Mj
-Y0NzIwODYsMTA5NzkwMzgyNiwtMjE0NTIzODQ1MSwxMzE3MjI5
-MzgwLDU3NDM2MTk2MCwyMDEzNDE1NDM1LDEwNjg0NjkwOTYsLT
-Y0MDM3ODQ4NSwtMTk4MjUzMjE0Myw0OTc4MTg4MTBdfQ==
+eyJoaXN0b3J5IjpbLTYxNTEzMzkzNywtOTUxODQ4NjYyLDIwMD
+c0OTg3NzAsLTYyNjQ3MjA4NiwxMDk3OTAzODI2LC0yMTQ1MjM4
+NDUxLDEzMTcyMjkzODAsNTc0MzYxOTYwLDIwMTM0MTU0MzUsMT
+A2ODQ2OTA5NiwtNjQwMzc4NDg1LC0xOTgyNTMyMTQzLDQ5Nzgx
+ODgxMF19
 -->
