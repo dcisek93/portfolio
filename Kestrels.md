@@ -31,13 +31,14 @@ https://www.movebank.org/cms/movebank-content/movebank-attribute-dictionary#even
 https://open-meteo.com/en/docs/historical-forecast-api?start_date=2024-11-28&end_date=2025-06-29&hourly=wind_speed_180m,wind_direction_180m,wind_speed_10m,wind_direction_10m&latitude=37.0427&longitude=6.4344&timezone=auto&daily=rain_sum,temperature_2m_max,temperature_2m_min#hourly_weather_variables
 https://www.aemet.es/en/eltiempo/observacion/ultimosdatos?k=and&w=0
 https://www.movebank.org/cms/webapp?gwt_fragment=page%3Dstudies%2Cpath%3Dstudy2970193504%2Bfile
+https://earthdatascience.org/courses/scientists-guide-to-plotting-data-in-python/plot-spatial-data/customize-vector-plots/interactive-leaflet-maps-in-python-folium/
 
     
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNTEzMzkzNywtOTUxODQ4NjYyLDIwMD
-c0OTg3NzAsLTYyNjQ3MjA4NiwxMDk3OTAzODI2LC0yMTQ1MjM4
-NDUxLDEzMTcyMjkzODAsNTc0MzYxOTYwLDIwMTM0MTU0MzUsMT
-A2ODQ2OTA5NiwtNjQwMzc4NDg1LC0xOTgyNTMyMTQzLDQ5Nzgx
-ODgxMF19
+eyJoaXN0b3J5IjpbNjkwMTMzNjE5LC05NTE4NDg2NjIsMjAwNz
+Q5ODc3MCwtNjI2NDcyMDg2LDEwOTc5MDM4MjYsLTIxNDUyMzg0
+NTEsMTMxNzIyOTM4MCw1NzQzNjE5NjAsMjAxMzQxNTQzNSwxMD
+Y4NDY5MDk2LC02NDAzNzg0ODUsLTE5ODI1MzIxNDMsNDk3ODE4
+ODEwXX0=
 -->
